@@ -7,10 +7,11 @@ E-commerce websites like Myntra,Flipcart, Nordstorm etc. give a good representat
 
 #The Dataset 
 The dataset consists of data scraped from various e-commerce websites. The details scraped are shown here.
-![WhatsApp Image 2024-07-15 at 23 09 51](https://github.com/user-attachments/assets/a9b4a0f6-182c-4ff6-9a43-85665625a144)
-
+![Screenshot (52)](https://github.com/user-attachments/assets/a1f79f47-6dcc-4aac-b2de-71feebad3690)
 
 
 
 #Judging the Sentiment Attached with Each Product 😄/😐/ 😞
 Here, we make use of the rating, number of people who rated, reviews and number of people who reviewed to understand whether the product is doing well in the market. The Vader Polarity Score is a measure of how postive or negative a certain piece of text is. The relation between these aspects would be:
+![Uploading 3.png…]()
+
