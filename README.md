@@ -14,5 +14,18 @@ The dataset consists of data scraped from various e-commerce websites. The detai
 #Judging the Sentiment Attached with Each Product 😄/😐/ 😞
 Here, we make use of the rating, number of people who rated, reviews and number of people who reviewed to understand whether the product is doing well in the market. The Vader Polarity Score is a measure of how postive or negative a certain piece of text is. The relation between these aspects would be:
 ![TOTAL score](https://github.com/user-attachments/assets/509aa77e-d78e-43bc-b0bd-14927dd2bf53)
+We decided upon this equation because we feel that the positivity score is directly proportional to the above features. We pick the top 5 and bottom 5 products based on their final score. These products are displayed in the current trends section.
+
+#Concepts and Tech Stack Used 
+The concepts and tech stack used here are:
+
+Web scraping (Python)
+Natural Language Processing (Python)
+a. Sentiment Analysis
+b. Bigram Analysis
+Data Visualizations
+![Current Trend Analysis](https://github.com/user-attachments/assets/a0106525-c46a-45e1-94a2-b48cba3317c9)
+
+
 
 
