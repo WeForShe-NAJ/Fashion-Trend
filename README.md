@@ -13,5 +13,4 @@ The dataset consists of data scraped from various e-commerce websites. The detai
 
 #Judging the Sentiment Attached with Each Product 😄/😐/ 😞
 Here, we make use of the rating, number of people who rated, reviews and number of people who reviewed to understand whether the product is doing well in the market. The Vader Polarity Score is a measure of how postive or negative a certain piece of text is. The relation between these aspects would be:
-![Uploading 3.png…]()
 
