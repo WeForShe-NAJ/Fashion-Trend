@@ -7,6 +7,7 @@ E-commerce websites like Myntra,Flipcart, Nordstorm etc. give a good representat
 
 #The Dataset 
 The dataset consists of data scraped from various e-commerce websites. The details scraped are shown here.
+![WhatsApp Image 2024-07-15 at 23 09 51](https://github.com/user-attachments/assets/a9b4a0f6-182c-4ff6-9a43-85665625a144)
 
 
 
