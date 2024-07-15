@@ -20,10 +20,12 @@ We decided upon this equation because we feel that the positivity score is direc
 The concepts and tech stack used here are:
 
 Web scraping (Python)
+
 Natural Language Processing (Python)
 a. Sentiment Analysis
 b. Bigram Analysis
 Data Visualizations
+
 ![Current Trend Analysis](https://github.com/user-attachments/assets/a0106525-c46a-45e1-94a2-b48cba3317c9)
 
 
